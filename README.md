@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Tecnologia<br>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>🌱 Amo aprender e me desenvolver<br>✨ Games / Livros / Viajar<br><br><br>
+💻Technology<br>📚 Systems Analysis and Development <br>🌱  I love to learn and develop<br>✨ Games / Books / Travel<br>🇧🇷 São Paulo - Brazil<br><br><br>
 
 
 ## 🌐 Socials:
