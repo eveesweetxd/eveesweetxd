@@ -1,8 +1,3 @@
-### Olá!! 👋
-
-<!--
-**eveesweetxd/eveesweetxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 💻Tecnologia<br>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>🌱 Amo aprender e me desenvolver<br>✨ Games / Livros / Viajar<br><br><br>
 
@@ -30,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=eveesweetxd&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
