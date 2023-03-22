@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Technology<br>📚Systems Analysis and Development <br>🌱I love to learn and develop<br>✨Games / Books / Travel<br>🇧🇷 SP - Brazil<br><br><br>
+💻Technology<br>📚 Systems Analysis and Development <br>🌱I love to learn and develop<br>✨Games / Books / Travel<br>🇧🇷 SP - Brazil<br><br><br>
 
 
 ## 🌐 Socials:
