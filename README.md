@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇧🇷 SP - Brazil<br>💻 Technology<br>📚 Systems Analysis and Development <br>🌱 I love to learn and develop<br>✨ Games / Books / Travel<br><br><br>
+🗺️ SP - Brazil<br>💻 Technology<br>📚 Systems Analysis and Development <br>🌱 I love to learn and develop<br>✨ Games / Books / Travel<br><br><br>
 
 
 ## 🌐 Socials:
